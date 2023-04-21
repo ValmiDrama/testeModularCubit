@@ -4,7 +4,7 @@ Projeto com a finalidade de testa o modular e cubit.
 
 Estrutura em features:
 
-"""
+```
 .                  
 ├── features                                 # All features or Modules 
 │   ├─ auth                                  # Auth's MVC       
@@ -21,6 +21,5 @@ Estrutura em features:
 │      └── product_page.dart                    
 ├── core                                     # Tools and utilities
 ├── app_widget.dart                          # Main Widget containing MaterialApp 
-└── main.dart                                # runApp 
-"""
-
+└── main.dart                                # runApp
+```
